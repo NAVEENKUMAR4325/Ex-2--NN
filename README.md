@@ -1,6 +1,7 @@
 <H3>Name:Naveen Kumar E</H3>
 <H3>Register no:212222220029</H3>
 <H3>Experiment No. 2 </H3>
+<H3>Date: 27-2-2024</H3>
 
 ## Implementation of Perceptron for Binary Classification
 
